@@ -1,0 +1,9 @@
+[
+  {"id":"c01","title":"Compliment Relay","prompt":"Take turns sharing three specific things you appreciate about each other.","reward_text":"A shared smile and a high five."},
+  {"id":"c02","title":"The Five-Minute Sketch","prompt":"Draw each other's favorite place without looking at a reference.","reward_text":"Put both drawings on the fridge."},
+  {"id":"c03","title":"Mini Food Lab","prompt":"Create a new snack using only ingredients you already have.","reward_text":"Invent a name for your recipe."},
+  {"id":"c04","title":"Memory Postcard","prompt":"Write a short postcard about a favorite fictional adventure.","reward_text":"Read it aloud dramatically."},
+  {"id":"c05","title":"Playlist Swap","prompt":"Pick one song each that captures this week. Explain why.","reward_text":"A two-song micro playlist."},
+  {"id":"c06","title":"The Curiosity Game","prompt":"Each ask one question you've never asked before. Listen fully.","reward_text":"One surprising new discovery."},
+  {"id":"c07","title":"Neighborhood Explorer","prompt":"Choose a nearby spot for a short walk and take three interesting photos.","reward_text":"Select a favorite picture together."}
+]

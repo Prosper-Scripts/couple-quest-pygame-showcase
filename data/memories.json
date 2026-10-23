@@ -1,0 +1,52 @@
+[
+  {
+    "id": "m06", "title": "Rooftop Picnic", "year": 2023,
+    "location": "Cedar Rooftop", "description": "A picnic under paper lanterns after a rainy afternoon.",
+    "date": "2023-02-14", "tags": ["picnic", "city"], "photo": null
+  },
+  {
+    "id": "m01", "title": "The Bookshop Meeting", "year": 2021,
+    "location": "Harbor Bookshop", "description": "Two people reached for the same used astronomy book.",
+    "date": "2021-04-10", "tags": ["books", "first meeting"], "photo": null
+  },
+  {
+    "id": "m08", "title": "Lake Canoe Adventure", "year": 2024,
+    "location": "Lake Ember", "description": "An afternoon of paddling, wrong turns and laughing at the map.",
+    "date": "2024-06-18", "tags": ["outdoors", "water"], "photo": null
+  },
+  {
+    "id": "m03", "title": "Lantern Festival", "year": 2021,
+    "location": "Willow Square", "description": "The pair picked matching blue paper lanterns at a night market.",
+    "date": "2021-10-02", "tags": ["festival", "night"], "photo": null
+  },
+  {
+    "id": "m10", "title": "Community Mural", "year": 2025,
+    "location": "Maple Community Center", "description": "The pair painted a bright blue bicycle into a neighborhood mural.",
+    "date": "2025-09-07", "tags": ["volunteering", "art"], "photo": null
+  },
+  {
+    "id": "m05", "title": "The Bread Experiment", "year": 2022,
+    "location": "The Apartment Kitchen", "description": "Homemade sourdough turned into a surprisingly delicious flatbread.",
+    "date": "2022-08-20", "tags": ["cooking", "weekend"], "photo": null
+  },
+  {
+    "id": "m02", "title": "Pine Ridge Hike", "year": 2021,
+    "location": "Pine Ridge Trail", "description": "A short hike turned into an all-day photo walk.",
+    "date": "2021-06-12", "tags": ["hiking", "photos"], "photo": null
+  },
+  {
+    "id": "m04", "title": "Board Game Marathon", "year": 2022,
+    "location": "The Living Room", "description": "A snow-day tournament with a hand-drawn scoreboard.",
+    "date": "2022-01-01", "tags": ["games", "winter"], "photo": null
+  },
+  {
+    "id": "m07", "title": "Backyard Astronomy", "year": 2023,
+    "location": "Oak Hill Observatory", "description": "The first clear view of Saturn through a borrowed telescope.",
+    "date": "2023-09-30", "tags": ["stars", "science"], "photo": null
+  },
+  {
+    "id": "m09", "title": "Coastal Train Trip", "year": 2025,
+    "location": "North Bay Railway", "description": "A day trip with a packed lunch and a window full of sea views.",
+    "date": "2025-01-17", "tags": ["travel", "train"], "photo": null
+  }
+]
